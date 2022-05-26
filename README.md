@@ -1,6 +1,18 @@
 # Decision Tree ID3 - Julia
 Decision Tree ID3 algorithm
 
+Cài đặt thuật toán cây quyết định ID3 cho việc phân lớp tập dữ liệu hoa Iris ([Iris Dataset](https://www.kaggle.com/uciml/iris))
+
+Ngôn ngữ: Julia
+
+# Iris Dataset
+Tập dữ liệu bao gồm các cột:
+- Id
+- SepalLengthCm
+- SepalWidthCm
+- PetalLengthCm
+- PetalWidthCm
+- Species
 
 # Các bước thực hiện
 - Chia tập dữ liệu ngẫu nhiên thành 2 tập training và test tương ứng theo tỷ lệ 2/3 và 1/3.
