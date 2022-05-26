@@ -1,5 +1,6 @@
-# Decision Tree ID3 (Cây quyết định)
+# Decision Tree ID3
 Decision Tree ID3 algorithm
+Language: Julia
 
 # Các bước thực hiện
 - Chia tập dữ liệu ngẫu nhiên thành 2 tập training và test tương ứng theo tỷ lệ 2/3 và 1/3.
